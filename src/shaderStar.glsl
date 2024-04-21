@@ -5,7 +5,7 @@
 // it is WIP, gotta learn maths
 
 #ifdef GL_ES
-precision mediump float;
+precision lowp float;
 #endif
 
 #define PI 3.1415926535
